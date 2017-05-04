@@ -24,10 +24,9 @@ I implemented this IOS app few years ago and I don't have time to maintain this 
 I am freelancer, if you want create a app like this, please contact me. My rate is $70+GST per hour.
 
 ## Screenshots
-## Screenshots
-<img src="https://cloud.githubusercontent.com/assets/20594610/17173468/622c9296-543e-11e6-9dec-754cb1301893.png" width="400" height="500" />
-<img src="https://cloud.githubusercontent.com/assets/20594610/17173467/6229f6c6-543e-11e6-98c3-e3de007d400d.png" width="400" height="500" />
-<img src="https://cloud.githubusercontent.com/assets/20594610/17173466/62294cd0-543e-11e6-8aa6-f87204bac867.png" width="400" height="500" />
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/ba/00/03/ba000363-ba15-4a63-f8db-b7aa0a3c389b/pr_source.png/0x0ss.jpg" width="400" height="500" />
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/0c/a9/54/0ca954e5-908d-00ae-b0e1-3a5573828f98/pr_source.png/0x0ss.jpg" width="400" height="500" />
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple7/v4/19/12/4a/19124afa-a67f-31cf-ee36-4734580b2280/pr_source.png/0x0ss.jpg" width="400" height="500" />
 
 
 
