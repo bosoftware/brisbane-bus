@@ -2,6 +2,8 @@
 
 I implemented this IOS app few years ago and I don't have time to maintain this app anymore. I think it is good to open source it.
 
+I have already unpublished this app from Apple Store. 
+
 ## Getting Started
 
 1. To run this app, you have to get GTFS data from Brisbane government website.
@@ -21,7 +23,7 @@ I implemented this IOS app few years ago and I don't have time to maintain this 
 ## Authors
 
 * **Bo Wang** - *Initial work* - [Bo Wang's Software](https://thebosoftware.com)
-I am freelancer, if you want create a app like this, please contact me. My rate is $70+GST per hour.
+I am freelancer, if you want create a app like this, please contact me. 
 
 ## Screenshots
 <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple5/v4/ba/00/03/ba000363-ba15-4a63-f8db-b7aa0a3c389b/pr_source.png/0x0ss.jpg" width="400" height="500" />
