@@ -22,7 +22,7 @@ I have already unpublished this app from Apple Store.
 
 ## Authors
 
-* **Bo Wang** - *Initial work* - [Bo Wang's Software](https://thebosoftware.com)
+* **Bo Wang** - *Initial work* - [Bo Wang's Software](http://thebosoftware.com)
 I am freelancer, if you want create a app like this, please contact me. 
 
 ## Screenshots
